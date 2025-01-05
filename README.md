@@ -7,7 +7,7 @@ The goal of this repository is to provide clear and comprehensive resources for 
 
 ---
 
-## Content Structure
+## Content Structure - WIP
 
 ```plaintext
 docs/
